@@ -1,1 +1,12 @@
 Data Visualization
+_______________________________________________________________________________________________________________________________________________________________________
+Using the given dataset, we plan to create various graphs and charts to highlight the insights and visualizations.
+
+      * Building the following visualizations
+            - Average Age for different Chest Pain Types
+            - Average Max heart beats achieved during Chest Pain
+            - Resting Blood Pressure variation with Age
+            - Effect of Existing Heart Diseases on Average Max Heart beats Achieved
+            - Average age for Chest pain type with existing heart disease
+            - Serum Cholesterol levels vs Age plot
+            - Effect of Existing heart disease on Fasting Blood Sugar
